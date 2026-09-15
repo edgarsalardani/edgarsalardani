@@ -1,20 +1,25 @@
-# Hello, eu sou o Edgar!
+# Hello, eu sou Edgar! 👋
 
-Sou aluno, professor e trabalho com tecnologia e programação desde 2013.
+Programo desde 2013, mas continuo achando que tecnologia fica muito mais interessante quando a gente coloca pessoas no meio dela.
 
-Já passei por diferentes momentos nessa trajetória e, depois de alguns anos, resolvi começar um novo GitHub. Meu perfil antigo acabou se perdendo pelo caminho, então este espaço representa um pouco de um recomeço. Agora com mais experiência, novos interesses e, certamente, uma visão bem diferente daquela que eu tinha quando comecei a programar.
+Sou professor, desenvolvedor e mestrando em Informática na UFES. Entre uma aula, algumas linhas de código e muitos artigos, gosto de criar, experimentar ideias e entender como as pessoas interagem com a tecnologia.
 
-Hoje, além do desenvolvimento de software, grande parte do meu trabalho está ligada à docência e à pesquisa.
+Minha principal área de interesse hoje é **Interação Humano-Computador (IHC)**, especialmente **Usabilidade**, que também faz parte dos meus estudos no mestrado. Também estudo **Ontologias** e tenho bastante interesse em descobrir como esses conhecimentos podem sair da teoria e virar aplicações de verdade.
 
-Sou professor na área de Computação e atualmente também sou mestrando em Informática na UFES, pesquisando temas relacionados à Interação Humano-Computador (IHC), Usabilidade e Ontologias.
+Por aqui você provavelmente vai encontrar um pouco de tudo: projetos de software, experimentos, ideias que começaram com um “e se a gente fizesse isso?”, coisas relacionadas às minhas aulas e estudos que resolvi transformar em código.
 
-Por aqui pretendo reunir projetos, estudos, experimentos e algumas coisas que surgirem entre código, sala de aula e pesquisa.
+Inclusive, foi mais ou menos assim que nasceu o **EdKut**. 😄
 
-### Atualmente tenho me interessado por
+## Algumas coisas que gosto de estudar e construir
 
-Engenharia de Software • IHC • Usabilidade • Ontologias • Arquitetura de Software • Desenvolvimento Web
+`IHC` `Usabilidade` `Ontologias` `Engenharia de Software` `UX` `Arquitetura de Software` `Desenvolvimento Web`
 
 ---
 
-Programando desde 2013.  
-Recomeçando o GitHub em 2026, com um pouco mais de experiência do que da primeira vez. :)
+Este é um GitHub novo.
+
+Meu perfil antigo acabou se perdendo depois de alguns anos e resolvi não tentar simplesmente reconstruí-lo.
+
+Preferi começar outro.
+
+**Programando desde 2013. Recomeçando por aqui em 2026, com novas ideias, novos projetos e muito mais perguntas do que quando comecei.**
