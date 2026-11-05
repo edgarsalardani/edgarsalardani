@@ -1,25 +1,14 @@
+
 # Hello, eu sou Edgar! 👋
 
-Programo desde 2013, mas continuo achando que tecnologia fica muito mais interessante quando a gente coloca pessoas no meio dela.
+Sou **professor, desenvolvedor e mestrando em Informática na UFES**. Programo desde 2013 e acredito que a tecnologia fica muito mais interessante quando colocamos as pessoas no centro dela.
 
-Sou professor, desenvolvedor e mestrando em Informática na UFES. Entre uma aula, algumas linhas de código e muitos artigos, gosto de criar, experimentar ideias e entender como as pessoas interagem com a tecnologia.
+Meus principais interesses são **Interação Humano-Computador (IHC)**, **Usabilidade**, **Engenharia de Software**, **UX** e **Ontologias**.
 
-Minha principal área de interesse hoje é **Interação Humano-Computador (IHC)**, especialmente **Usabilidade**, que também faz parte dos meus estudos no mestrado. Também estudo **Ontologias** e tenho bastante interesse em descobrir como esses conhecimentos podem sair da teoria e virar aplicações de verdade.
+Por aqui compartilho projetos de software, pesquisas, experimentos e ideias que surgem entre aulas e linhas de código.
 
-Por aqui você provavelmente vai encontrar um pouco de tudo: projetos de software, experimentos, ideias que começaram com um “e se a gente fizesse isso?”, coisas relacionadas às minhas aulas e estudos que resolvi transformar em código.
-
-Inclusive, foi mais ou menos assim que nasceu o **EdKut**. 😄
-
-## Algumas coisas que gosto de estudar e construir
-
-`IHC` `Usabilidade` `Ontologias` `Engenharia de Software` `UX` `Arquitetura de Software` `Desenvolvimento Web`
+Entre os projetos em desenvolvimento estão o **UsaLab**, voltado à aprendizagem da Avaliação Heurística de Usabilidade, o **EdKut**, uma rede social acadêmica inspirada no Orkut, e outras iniciativas que conectam tecnologia, educação e experiência do usuário.
 
 ---
 
-Este é um GitHub novo.
-
-Meu perfil antigo acabou se perdendo depois de alguns anos e resolvi não tentar simplesmente reconstruí-lo.
-
-Preferi começar outro.
-
-**Programando desde 2013. Recomeçando por aqui em 2026, com novas ideias, novos projetos e muito mais perguntas do que quando comecei.**
+*Programando desde 2013. Recomeçando no GitHub em 2026, sempre aprendendo, pesquisando e transformando ideias em código.*
