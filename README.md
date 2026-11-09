@@ -1,7 +1,7 @@
 
 # Hello, eu sou Edgar! 👋
 
-Sou **professor, desenvolvedor e mestrando em Informática na UFES**. Programo desde 2013 e acredito que a tecnologia fica muito mais interessante quando colocamos as pessoas no centro dela.
+Programo desde 2013 e acredito que a tecnologia fica muito mais interessante quando colocamos as pessoas no centro dela.
 
 Meus principais interesses são **Interação Humano-Computador (IHC)**, **Usabilidade**, **Engenharia de Software**, **UX** e **Ontologias**.
 
@@ -11,4 +11,4 @@ Entre os projetos em desenvolvimento estão o **UsaLab**, voltado à aprendizage
 
 ---
 
-*Programando desde 2013. Recomeçando no GitHub em 2026, sempre aprendendo, pesquisando e transformando ideias em código.*
+
